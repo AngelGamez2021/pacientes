@@ -1,0 +1,8 @@
+1. crear los componentes
+2. creamos el path en el routing para dar al login como princiapal
+3. en el app components  ponemos el router-outlet para dar al login como principal
+4. colocamos la ruta para nuevo para dasboard y los demas, y en el link del localhost ponemos / y la vista que queremos ver
+
+heroku y strapi
+heroku hosting
+strapi back 
